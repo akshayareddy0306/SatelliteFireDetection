@@ -1,0 +1,21 @@
+# Local credentials and environment
+.env
+.env.*
+!.env.example
+.venv/
+
+# Downloaded data and local persistence
+data/
+*.sqlite
+*.sqlite3
+*.db
+
+# Python and model artifacts
+__pycache__/
+*.py[cod]
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
