@@ -5,7 +5,7 @@
 .venv/
 
 # Downloaded data and local persistence
-data/
+/data/
 *.sqlite
 *.sqlite3
 *.db
